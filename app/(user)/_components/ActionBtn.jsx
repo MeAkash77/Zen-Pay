@@ -52,14 +52,14 @@ export default function ActionBtn({ zpiid }) {
                             <img ref={qrcodeRef} src={zpiQr} alt="qrcode" className="mx-auto rounded-lg h-[250px] w-[250px] bg-secondary mt-2" />
                             <div className="flex gap-2 mt-4 -mb-5 items-center justify-center">
                                 <Button className="w-full max-w-sm" onClick={handleDownload}>Save</Button>
-                                <Button size="icon" onClick={() => { navigator.share({ title: "Scan and Pay", url: "https://zenpay.vercel.app", text: `Pay with my zpi: ${zpiid}` }) }} variant="secondary"><Share2 className="h-4 w-4" /></Button>
+                                <Button size="icon" onClick={() => { navigator.share({ title: "Scan and Pay", url: "https://zen-pay-eight.vercel.app/", text: `Pay with my zpi: ${zpiid}` }) }} variant="secondary"><Share2 className="h-4 w-4" /></Button>
                             </div>
                         </DialogDescription>
                     </DialogHeader>
                 </DialogContent>
             </Dialog>
             {/* <Button size="icon" variant="secondary" onClick={handleScan}><ScanBarcodeIcon className="h-4 w-4" /></Button> */}
-            <Button variant="secondary" onClick={() => { navigator.share({ text: `Send me some zen coin on my zpi id: ${zpiid}`, title: "ZenPay", url: "https://zenpay.vercel.app" }); }} className="flex items-center justify-center gap-[2px]" size="icon"><Plus className="h-4 w-4" /></Button>
+            <Button variant="secondary" onClick={() => { navigator.share({ text: `Send me some zen coin on my zpi id: ${zpiid}`, title: "ZenPay", url: "https://zen-pay-eight.vercel.app/" }); }} className="flex items-center justify-center gap-[2px]" size="icon"><Plus className="h-4 w-4" /></Button>
         </>
     )
 }
