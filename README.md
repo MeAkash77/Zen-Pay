@@ -27,7 +27,7 @@ Follow these steps to set up and run ZenPay on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/r2hu1/zenpay.git
+   git clone https://github.com/MeAkash77/Zen-Pay.git
    ```
 
 2. **Install Dependencies:**
