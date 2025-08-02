@@ -3,6 +3,16 @@
 ZenPay is a virtual currency system designed to facilitate secure and seamless digital transactions. Built with JavaScript, Next.js, MongoDB, Shadow-cljs, and Clerk authentication, ZenPay offers a modern and efficient platform for managing virtual currencies.
 (hobby project)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛️ React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/🟦 TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/🔐 Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/📹 getStream-0061FE?style=for-the-badge&logo=livestream&logoColor=white" alt="getStream" />
+  <img src="https://img.shields.io/badge/✨ shadcn_UI-111827?style=for-the-badge&logo=radixui&logoColor=white" alt="shadcn" />
+  <img src="https://img.shields.io/badge/🌊 Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+</p>
+
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
