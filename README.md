@@ -8,7 +8,7 @@ ZenPay is a virtual currency system designed to facilitate secure and seamless d
 <br/>
 ![demo](https://github.com/user-attachments/assets/201d24e3-39cb-4dd9-b5d9-3a674ff7f58e)
 <br/>
-![demo](https://i.postimg.cc/fThg0Wp3/Screenshot-2024-01-19-223801.png)
+![demo](https://github.com/user-attachments/assets/ad9867ef-4af4-4a45-9fbf-fd5c1f454f16)
 <br/>
 ![demo](https://i.postimg.cc/K8kMgkQn/image.png)
 <br/>
